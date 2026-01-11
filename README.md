@@ -17,6 +17,7 @@ Below are some of the repositories that clearly demonstrate my skills in prompt 
 | **JSON-Draft-Generation** | Structured draft generation with automated JSON output for cleaner workflows. |
 | **Multiple-Topics-Blog-Generation** | Generate JSON-ready blog content for multiple topics with structured output. |
 | **Retry-Blog-Evaluation** | GenAI content evaluation tool with retry logic to handle API responses, then exporting it as an output with evaluation scores in a CSV. |
+| **Story-Generation-With-Retry-Function** | Generating a 400 word toddler story with the help of a reference story using Google Gemini API and Python docx library and saving the output in a .JSON Folder |
 
 Each project covers:
 - **Prompt engineering concepts**  
