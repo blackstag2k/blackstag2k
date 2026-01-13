@@ -46,6 +46,11 @@ I’m expanding my skills in:
 
 ---
 
+## Production System
+
+For a real-world implementation of these prompts inside a structured LLM pipeline, see:
+LLM-Control-Lab: 
+
 ## Get in Touch!
 
 I’m actively seeking opportunities in:
