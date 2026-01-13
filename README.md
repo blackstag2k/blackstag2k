@@ -49,7 +49,7 @@ I’m expanding my skills in:
 ## Production System
 
 For a real-world implementation of these prompts inside a structured LLM pipeline, see:
-LLM-Control-Lab: 
+LLM-Control-Lab: **https://github.com/blackstag2k/LLM-Control-Lab**
 
 ## Get in Touch!
 
