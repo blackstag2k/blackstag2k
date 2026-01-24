@@ -18,6 +18,8 @@ Below are some of the repositories that clearly demonstrate my skills in prompt 
 | **Multiple-Topics-Blog-Generation** | Generate JSON-ready blog content for multiple topics with structured output. |
 | **Retry-Blog-Evaluation** | GenAI content evaluation tool with retry logic to handle API responses, then exporting it as an output with evaluation scores in a CSV. |
 | **Story-Generation-With-Retry-Function** | A 400-word toddler story with the help of a reference story using Google Gemini API and Python docx library and saving the output in a .JSON Folder |
+| **Single-Blog-LLM-Content-Evaluation** | A content evaluation pipeline with a project structure for evaluating a single blog with Gemini API and JSON schema |
+| **Multiple-Blog-LLM-Content-Evaluation** | A content evaluation pipeline with a project structure for evaluating three different blogs with Gemini API and JSON schema |
 
 Each project covers:
 - **Prompt engineering concepts**  
