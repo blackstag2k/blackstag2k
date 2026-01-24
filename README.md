@@ -51,8 +51,8 @@ I’m expanding my skills in:
 ## Production System
 
 For a real-world implementation of these prompts inside a structured LLM pipeline, see:
-Single-Blog-LLM-Content-Evaluation: **https://github.com/blackstag2k/Single-Blog-LLM-Content-Evaluation.git**
-Multiple-Blog-LLM-Content-Evaluation: **https://github.com/blackstag2k/Multiple-Blogs-LLM-Content-Evaluation.git**
+- Single-Blog-LLM-Content-Evaluation: **https://github.com/blackstag2k/Single-Blog-LLM-Content-Evaluation.git**
+- Multiple-Blog-LLM-Content-Evaluation: **https://github.com/blackstag2k/Multiple-Blogs-LLM-Content-Evaluation.git**
 
 ## Get in Touch!
 
