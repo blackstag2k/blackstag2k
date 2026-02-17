@@ -20,6 +20,7 @@ Below are some of the repositories that clearly demonstrate my skills in prompt 
 | **Story-Generation-With-Retry-Function** | A 400-word toddler story with the help of a reference story using Google Gemini API and Python docx library and saving the output in a .JSON Folder |
 | **Single-Blog-LLM-Content-Evaluation** | A content evaluation pipeline with a project structure for evaluating a single blog with Gemini API and JSON schema |
 | **Multiple-Blog-LLM-Content-Evaluation** | A content evaluation pipeline with a project structure for evaluating three different blogs with Gemini API and JSON schema |
+| **AI-YouTube-Video-Generation** | A detailed and fool proof pipeline for generating a YouTube video along with a script, voice, visuals, subtitles, seo metadata and thumbnail |
 
 Each project covers:
 - **Prompt engineering concepts**  
